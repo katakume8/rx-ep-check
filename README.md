@@ -1,2 +1,2 @@
 # rx-ep-check
-Rx Errorprone Checker
+Rx Checker
